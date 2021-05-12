@@ -250,9 +250,6 @@
                     } else if(dataValue==5){
                       $("#" + id).addClass("dot dot5");
                     }
-=======
-                    $("#" + id).addClass("dot");
->>>>>>> b78b3e30a6eb7025a8990cee0f3a0df59a080ed8
               });
         });
         
